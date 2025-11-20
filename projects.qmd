@@ -1,0 +1,68 @@
+---
+title: "Projects & Case Studies"
+---
+
+## Featured Projects & Case Studies
+
+Below are selected projects and case studies completed during my MBA at University Canada West and based on my professional experience. These projects demonstrate my ability to apply business strategy, operations analysis, and technical tools to real-world challenges.
+
+---
+
+### **Netflix Advertising Strategy – Business Report using LLMs and Quarto**
+*2025 | BUSI 654 – Application of AI in Business | Individual Business Report*
+
+**Overview:**
+Created a comprehensive business report analyzing Netflix's advertising and market strategy, using large language models (LLMs) and Quarto to structure and present the work. This project explores the intersection of AI-assisted research and strategic business analysis, examining how LLMs can enhance (but not replace) human judgment in developing marketing campaigns.
+
+**Key Focus Areas:**
+
+- Strategic analysis of Netflix's ad-supported tier in competitive streaming landscape
+- Development of "Watch More, Pay Less" campaign targeting price-sensitive but quality-conscious viewers aged 18–38
+- Critical evaluation of LLM outputs versus human-refined strategic content
+- Human evaluation framework for assessing campaign quality beyond AI-generated metrics
+- Unconventional metrics for measuring campaign success and expectation management
+
+**Skills Applied:** Business research, competitive analysis, marketing strategy, AI-assisted content development, critical thinking, human evaluation frameworks, technical documentation with Quarto
+
+[**→ View Full Project Details**](netflix-project.qmd) | [Download Report PDF](assets/Netflix_Strategy_Report.pdf)
+
+---
+
+### **Service Improvement Case Study – Retirement Living Dining Services**
+*Case study based on experience as Dietary Aide at Venvi Retirement Living (formerly Revera Hollyburn House)*
+
+**Overview:**
+This case study reflects on how dining room service can influence residents' daily quality of life in a retirement living setting.
+
+**What I focused on:**
+
+- Mapped the resident dining experience from arrival and seating to meals and feedback
+- Identified practical pain points such as wait times, communication about dietary restrictions, and coordination during busy periods
+- Suggested small process changes, like clearer task roles, better pre-service briefings, and quick feedback notes after meals
+- Reflected on how consistent, respectful communication and small service improvements can increase resident satisfaction and support staff teamwork
+
+**Skills Applied:** Operations analysis, process mapping, customer service excellence, quality improvement
+
+---
+
+### **Operations & Resource Coordination – Public Education Case Study**
+*Case study inspired by work as Administrative Coordinator at UGEL 07 in Lima, Peru*
+
+**Overview:**
+In this case study, I examine how effective operations and resource coordination support public schools and teachers.
+
+**What I highlight:**
+
+- Oversaw resource allocation, facility maintenance, and supply logistics for multiple public schools
+- Supported teachers by helping ensure materials and services arrived on time
+- Maintained inventory records and supervised support staff to keep daily operations running smoothly
+- Reflected on the importance of organization, clear priorities, and communication when working with limited budgets and many stakeholders
+
+**Skills Applied:** Resource allocation, logistics coordination, stakeholder management, public sector operations
+
+---
+
+::: {.callout-note appearance="minimal"}
+## 📂 Project Files & Presentations
+If you'd like to see full reports, slides, or code repositories for any of these projects, please [contact me](contact.qmd).
+:::

@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Katherine Samaniego | MBA Portfolio"
+  navbar:
+    background: light
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Experience"
+        href: experience.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/katherine-samaniego-ventura-4750401a5
+        aria-label: LinkedIn
+      - icon: file-pdf
+        href: assets/Katherine_Resume.pdf
+        aria-label: Download Resume
+    search: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    toc-location: right
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true

@@ -1,0 +1,72 @@
+---
+title: "Skills & Certifications"
+---
+
+## Core Competencies
+
+Below is a summary of my key professional skills, organized by category. These skills have been developed through hands-on experience in hospitality, education, sales, and administrative roles, and are being further refined through my MBA coursework.
+
+---
+
+### **Core Skills**
+
+- Client-focused service excellence
+- Administrative and operations support
+- Event and project coordination
+- Stock and inventory management
+- Time management and multitasking
+- Adaptability in multicultural teams
+- Written and verbal communication
+
+---
+
+### **Tools & Technologies**
+
+- Microsoft Word, Excel, and PowerPoint
+- Basic data analysis and reporting in Excel
+- Quarto for structured reports and websites
+- Experience using large language models (LLMs) for brainstorming and drafting
+- Email and reservation systems in hospitality environments
+
+---
+
+## Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| **Spanish** | Native |
+| **English** | Fluent |
+| **French** | Basic |
+
+My bilingual abilities have enabled me to work effectively in diverse environments, from international cruise operations to supporting multicultural communities in Vancouver and Lima.
+
+---
+
+## Certifications & Professional Development
+
+### **Serving It Right – Responsible Beverage Service (BC)**
+
+Completed the Serving It Right training program, which covers responsible liquor service, signs of intoxication, legal liability, duty of care on and off premises, and the importance of enforcing safe beverage service policies.
+
+*Issued: December 11, 2021 · Expires: December 12, 2026*
+
+---
+
+### **Food Handler Certificate**
+
+Certified in safe food handling practices, including proper food storage, temperature control, cross-contamination prevention, personal hygiene, and sanitation procedures to ensure food safety in hospitality and senior care environments.
+
+*Issued: November 16, 2025 · Expires: November 16, 2030*
+
+---
+
+### **Ongoing Learning**
+
+Ongoing learning in AI in business, leadership, and digital transformation as part of my MBA at University Canada West
+
+---
+
+::: {.callout-tip}
+## 📄 Download My Resume
+For a complete overview of my skills and experience, [download my resume (PDF)](assets/Katherine_Resume.pdf).
+:::

@@ -1,0 +1,39 @@
+---
+title: "Contact & Connect"
+---
+
+## Get in Touch
+
+I'm always open to connecting with fellow professionals, MBA peers, recruiters, and potential collaborators. I'm particularly interested in opportunities within hospitality management, senior-living operations, and roles that combine service excellence with strategic leadership.
+
+Whether you'd like to discuss a project, explore opportunities, or simply network, feel free to reach out!
+
+---
+
+### **Contact Information**
+
+- 📧 **Email:** [kasv2793@gmail.com](mailto:kasv2793@gmail.com)
+- 📱 **Phone:** +1 236-513-5429
+- 📍 **Location:** Vancouver, BC, Canada
+- 💼 **LinkedIn:** [linkedin.com/in/katherine-samaniego-ventura-4750401a5](https://linkedin.com/in/katherine-samaniego-ventura-4750401a5)
+
+---
+
+### **Quick Links**
+
+- [📄 Download My Resume (PDF)](assets/Katherine_Resume.pdf)
+- [💼 View My LinkedIn Profile](https://linkedin.com/in/katherine-samaniego-ventura-4750401a5)
+- [📧 Send Me an Email](mailto:kasv2793@gmail.com)
+
+---
+
+::: {.callout-note appearance="simple"}
+## Let's Connect!
+I'm particularly interested in opportunities related to **hospitality management, operations strategy, digital transformation, and client service excellence**. If you're working on something exciting in these areas, I'd love to hear from you.
+:::
+
+---
+
+::: {.footer-note}
+*This portfolio was built using [Quarto](https://quarto.org). Last updated: January 2025.*
+:::

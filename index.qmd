@@ -1,0 +1,74 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.hero-banner}
+# Katherine Samaniego
+
+### MBA Candidate | Administrative Professional | Bilingual Leader
+
+Vancouver, BC | [kasv2793@gmail.com](mailto:kasv2793@gmail.com) | [LinkedIn](https://linkedin.com/in/katherine-samaniego-ventura-4750401a5)
+
+:::
+
+---
+
+## About Me
+
+::: {.about-section}
+::: {.about-image}
+![](assets/kathy.png){fig-alt="Professional headshot of Katherine Samaniego"}
+
+::: {.image-caption}
+**Katherine Samaniego**
+:::
+:::
+
+::: {.about-text}
+I am a **bilingual administrative professional** with over 5 years of experience spanning hospitality, education, and customer service sectors. My career has taken me from supporting onboard operations at Princess Cruises to coordinating resources for public schools in Peru, and now serving seniors with care at Venvi Retirement Living in Vancouver.
+
+Currently, I am pursuing my **MBA at University Canada West**, where I am developing strategic leadership capabilities and exploring digital transformation, artificial intelligence, and data-driven decision-making in business.
+
+As a bilingual professional with international experience across hospitality, education, and senior care, I bring a unique perspective that combines operational excellence with genuine care for people and communities.
+:::
+:::
+
+---
+
+## Current Focus
+
+::: {.callout-note appearance="simple"}
+## 🎓 MBA in Progress
+I am currently enrolled in the **Master of Business Administration program at University Canada West** (Sep 2024 – Present), with a focus on Leadership, Digital Transformation, and Artificial Intelligence in Business.
+:::
+
+::: {.career-focus}
+### 🎯 Career Goals
+
+My current career focus is securing a **management-track role within the hospitality and senior-living sector**, where I can develop leadership capabilities, gain supervisory experience, and build a long-term pathway for career advancement.
+
+I am particularly passionate about combining operational excellence with compassionate service delivery, leveraging my MBA training in digital transformation and AI to enhance both resident experience and organizational efficiency.
+:::
+
+**Recent Projects:**
+
+- Analyzing AI-driven strategies at Netflix for a business intelligence report
+- Proposing e-commerce solutions for a local Latin food business (El Paisano)
+- Exploring emotional intelligence and power dynamics in leadership
+- Developing service improvement case studies for retirement living operations
+
+---
+
+## Quick Links
+
+- [📄 Download My Resume (PDF)](assets/Katherine_Resume.pdf)
+- [💼 Connect on LinkedIn](https://linkedin.com/in/katherine-samaniego-ventura-4750401a5)
+- [📧 Email Me](mailto:kasv2793@gmail.com)
+
+---
+
+::: {.footer-note}
+*This portfolio was built using [Quarto](https://quarto.org), an open-source scientific and technical publishing system.*
+:::

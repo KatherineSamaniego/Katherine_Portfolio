@@ -1,0 +1,367 @@
+---
+title: "Netflix Advertising Strategy Analysis"
+subtitle: "Using LLMs for Business Intelligence and Strategic Marketing"
+---
+
+::: {.project-header}
+**Course:** BUSI 654 – Application of AI in Business
+**Type:** Individual Business Report
+**Year:** 2025
+:::
+
+---
+
+## Project Overview
+
+This project explores how large language models (LLMs) can be leveraged for business strategy development. I analyzed Netflix's advertising landscape and developed a comprehensive marketing campaign for their ad-supported subscription tier.
+
+What started as a straightforward business analysis became an interesting exploration of how AI tools can enhance—but not replace—strategic thinking. I used LLMs primarily as brainstorming partners and research assistants, but the strategic decisions, creative direction, and final analysis remained distinctly human-driven.
+
+**Key Challenge:** How can we balance AI assistance with authentic strategic thinking to create actionable business recommendations?
+
+---
+
+## Why Netflix and Why Now?
+
+I chose Netflix's ad-supported tier for three specific reasons that made this project personally interesting:
+
+**1. Market Timing:** Netflix launched their ad-supported plan in late 2022, which means we're still in the early adoption phase. This timing creates a unique opportunity to analyze real-time strategy adjustments rather than just retrospective case studies.
+
+**2. Industry Disruption:** Netflix spent years positioning itself as "ad-free premium entertainment," then reversed course. This strategic pivot fascinates me because it shows how even industry leaders must adapt to market pressures (subscriber losses, competition, revenue needs).
+
+**3. Personal Context:** As an MBA student in hospitality management, I'm drawn to businesses that balance service excellence with financial sustainability. Netflix's challenge mirrors what I see in senior living operations—how do you maintain quality experience while managing different pricing tiers?
+
+### What Makes This Different from Typical Case Studies?
+
+Most Netflix case studies focus on content strategy or subscriber metrics. I deliberately chose to focus on the **advertising psychology and campaign design** because:
+- There's less existing analysis (more room for original thinking)
+- It connects to my interest in customer behavior across demographics
+- The ad-supported tier requires understanding both advertisers AND viewers—a dual-customer challenge I find compelling
+
+---
+
+## Research Methodology: Working with LLMs
+
+### My Approach to AI-Assisted Research
+
+I used ChatGPT (GPT-4) and Claude as research assistants, but I quickly learned that effective LLM use requires **strategic prompting** rather than passive questioning.
+
+**What worked well:**
+- Using LLMs to generate competitor comparison frameworks
+- Asking for demographic research on 18–38 age groups' media habits
+- Brainstorming unconventional campaign messaging angles
+
+**What didn't work:**
+- Generic prompts like "analyze Netflix advertising" produced surface-level responses
+- LLMs sometimes invented statistics that seemed plausible but weren't real
+- Creative campaign ideas from LLMs often felt safe and uninspired
+
+This led me to develop a **two-stage verification process:**
+
+1. **First Pass:** Use LLM to generate ideas and structure
+2. **Second Pass:** Verify every claim against actual sources (annual reports, Statista, Nielsen data, marketing journals)
+
+The result? About 30% of LLM-generated content made it to the final report—the rest was either too generic, unverifiable, or lacked strategic nuance.
+
+---
+
+## Question Development & Strategic Framework
+
+### The Core Questions I Asked
+
+Rather than asking surface-level questions like "What is Netflix's target audience?" I developed three strategic questions that required synthesis and analysis:
+
+#### Question 1: How has Netflix's brand identity shifted with the introduction of ads, and what does this mean for long-term subscriber perception?
+
+**Why this question matters:**
+Netflix built its reputation on ad-free viewing. Introducing ads isn't just a revenue tactic—it's a fundamental brand repositioning. I wanted to understand the psychological trade-offs.
+
+**Alternatives considered:**
+- "What are Netflix's main competitors?" (Too descriptive, no analysis)
+- "How successful is the ad-supported tier?" (Too early for conclusive data)
+
+**What I discovered:**
+The shift reveals a tension between premium positioning and accessibility. Netflix is essentially creating a two-tier class system among subscribers. This echoes what I've observed in hospitality—when you create tiers, you must carefully manage how each segment perceives value.
+
+#### Question 2: What messaging strategy can make ads feel less like an interruption and more like an acceptable trade-off for cost savings?
+
+**Why this question matters:**
+Most analysis focuses on *whether* to introduce ads. I wanted to explore *how* to message them. This is a human psychology question, not just a business question.
+
+**Creative angles explored:**
+- Positioning ads as "supporting creators" (didn't feel authentic for Netflix)
+- Emphasizing cost savings (too transactional, lacks emotional resonance)
+- **Final choice:** "Watch more, pay less" campaign (balances practicality with lifestyle benefit)
+
+#### Question 3: Which advertising channels best reach price-sensitive younger viewers who still value premium content?
+
+**Why this question matters:**
+The target audience (18–38, budget-conscious but quality-seeking) exists across multiple platforms. Rather than defaulting to "social media advertising," I wanted to explore channel-specific strategies.
+
+**Unconventional insight:**
+TikTok isn't just a channel for ads—it's a content discovery platform. I proposed partnering with creators who make "what I watched this month" content, which feels native rather than promotional.
+
+---
+
+## Campaign Development: "Watch More, Pay Less"
+
+### The Strategic Rationale
+
+Most streaming service ads emphasize content breadth ("thousands of shows!"). I noticed this approach commodifies Netflix—it makes them sound interchangeable with other services.
+
+Instead, I developed **"Watch More, Pay Less"** to emphasize a lifestyle benefit:
+- "Watch More" implies guilt-free binge-watching and time for yourself
+- "Pay Less" positions ads as an empowering choice, not a compromise
+
+### Why This Resonated with Me
+
+Having worked in hospitality and senior living, I've seen how small language shifts change customer perception. In retirement homes, we don't say "assisted living"—we say "supportive living" because it maintains dignity and autonomy.
+
+Similarly, "Watch More, Pay Less" doesn't say "cheap tier with ads"—it says "smart choice for savvy viewers."
+
+### Media Mix Strategy
+
+I designed a channel strategy based on where the target audience actually spends time:
+
+**Digital Channels (70% of budget):**
+- YouTube pre-roll (reaches viewers already in "watching" mode)
+- Meta/Instagram Stories (visual, quick, scrollable format)
+- TikTok creator partnerships (native, authentic recommendations)
+
+**Traditional Media (30% of budget):**
+- Spotify/podcast ads (captures commuters and multitaskers)
+- Selected transit ads in urban areas (targets young professionals)
+
+**Why not TV ads?**
+The target audience is cord-cutters. TV advertising would contradict the insight that they've already left traditional TV behind.
+
+---
+
+## LLM Responses: What AI Generated vs. What I Used
+
+### Section Purpose
+
+This section shows **how I used LLM outputs as raw material** rather than final content. Understanding what AI generates versus what requires human judgment is critical for ethical AI use in business.
+
+::: {.llm-comparison}
+### Example 1: Target Audience Analysis
+
+**LLM Initial Response:**
+> "Netflix's ad-supported tier targets budget-conscious consumers aged 18-35 who want access to premium content at a lower price point. These users are typically young professionals, students, and families."
+
+**Why this wasn't sufficient:**
+- Too generic (could describe any streaming service)
+- Missed psychographic details (values, behaviors, motivations)
+- Lacked competitive context
+
+**My Refined Analysis:**
+The primary audience is **price-sensitive but quality-conscious viewers aged 18–38** who:
+- Grew up with streaming (no nostalgia for cable TV)
+- Subscribe to multiple services but experience "subscription fatigue"
+- Value content curation over content volume
+- Are active on social media and trust peer recommendations over traditional ads
+
+This group isn't "cheap"—they're strategic about spending. They'll pay for quality (hence choosing Netflix over free options) but seek value optimization (hence choosing ad-supported over premium).
+:::
+
+::: {.llm-comparison}
+### Example 2: Campaign Messaging
+
+**LLM Initial Response:**
+> "Emphasize the vast library of content available at a fraction of the cost. Highlight popular shows and movies to demonstrate value."
+
+**Why this felt generic:**
+- Focus on content catalog (what every streaming service says)
+- Transactional framing (lacks emotional connection)
+- Doesn't address the "ads" part (avoids the main friction point)
+
+**My Creative Direction:**
+Instead of avoiding ads, **acknowledge them directly with humor and honesty:**
+
+*Sample ad copy:*
+"Yeah, there are ads. But your wallet will thank you. Watch more guilt-free Netflix. Pay less guilt-inducing bills."
+
+This approach:
+- Disarms the negative (honesty builds trust)
+- Uses humor (makes ads feel less serious)
+- Balances practical benefit (lower cost) with emotional benefit (guilt-free enjoyment)
+:::
+
+### What This Comparison Reveals
+
+LLMs excel at **structure and breadth** but struggle with **nuance and originality**. They generate "safe" responses that sound professional but lack distinctive voice or strategic risk-taking.
+
+The transition from LLM output to final strategy required:
+1. **Specificity:** Adding demographic and psychographic details
+2. **Context:** Connecting to broader industry trends and competitive dynamics
+3. **Creativity:** Introducing unexpected angles (humor, honesty, lifestyle framing)
+4. **Voice:** Writing in a tone that reflects how real people think, not how AI thinks business documents should sound
+
+---
+
+## Human Evaluation: Assessing Quality Beyond AI Metrics
+
+### Why Human Evaluation Mattered
+
+After generating and refining LLM content, I needed to evaluate whether my final strategy actually worked. AI can generate text, but it can't assess **strategic soundness** or **market fit**.
+
+I developed a three-layer evaluation framework:
+
+#### Layer 1: Logical Coherence
+**Question:** Does the strategy internally make sense?
+
+**Evaluation Method:**
+I created a logic map connecting:
+- Target audience traits → Campaign messaging → Channel selection → Expected outcomes
+
+**Findings:**
+Initial messaging focused too heavily on cost savings without addressing the psychological barrier of ads. This created a logical gap: if people were purely cost-driven, they'd choose free streaming services instead.
+
+**Adjustment:**
+Shifted messaging to emphasize **lifestyle trade-off** ("Watch more guilt-free content") rather than pure cost savings.
+
+#### Layer 2: Market Realism
+**Question:** Would this actually work in Netflix's competitive environment?
+
+**Evaluation Method:**
+Compared my strategy against real campaigns by Disney+, Hulu, and Peacock (all offer ad-supported tiers).
+
+**Surprising Finding:**
+Most competitors focus on **content exclusivity** ("Only on Disney+"). Netflix's strength isn't exclusive content anymore—it's **curation and recommendation**.
+
+**Strategic Implication:**
+My campaign should emphasize Netflix's ability to "know what you'll love" rather than competing on content breadth. The ads don't interrupt this value—they subsidize it.
+
+#### Layer 3: Personal Stress-Testing
+**Question:** Would I believe this campaign if I saw it?
+
+**Evaluation Method:**
+I role-played as three different viewer personas:
+1. **Budget-conscious student** (me 5 years ago)
+2. **Young professional** (me now, juggling MBA + work)
+3. **Parent** (not me, but representing family subscribers)
+
+**Result:**
+As a budget-conscious student, the campaign would resonate because it validates a smart financial choice.
+As a young professional, I'd appreciate honesty about ads rather than corporate spin.
+As a parent, I'd want reassurance that ad content is family-appropriate (a gap I added to implementation notes).
+
+### What I Learned About Human Judgment
+
+This evaluation process taught me that **strategy isn't just about being correct—it's about being believable**. LLMs generate "correct" content, but humans assess credibility, emotional resonance, and practical feasibility.
+
+**Key Realization:**
+The best campaigns don't just present information—they anticipate objections and address them preemptively. The "Yeah, there are ads" messaging came from this human evaluation phase, not from LLM brainstorming.
+
+---
+
+## Metrics & Success Indicators
+
+### How I'd Measure Campaign Effectiveness
+
+Most business reports list generic metrics (awareness, engagement, conversion). I developed metrics tied to **specific strategic goals**:
+
+#### Primary Metrics (What success looks like in 6 months):
+
+**1. Ad-Tier Subscriber Growth Rate**
+- Target: 15% quarter-over-quarter growth
+- Why this matters: Proves the messaging resonates with target audience
+
+**2. Conversion from Free Trial to Paid Ad-Tier**
+- Target: 60% conversion rate
+- Why this matters: Shows the experience matches expectations (ads aren't worse than anticipated)
+
+**3. Churn Rate Comparison (Ad-Tier vs. Premium)**
+- Target: No more than 5% difference
+- Why this matters: If ad-tier churn is significantly higher, the trade-off isn't balanced
+
+#### Secondary Metrics (What predicts long-term success):
+
+**4. Ad Engagement Rate**
+- Target: 70% of ads watched to completion
+- Why this matters: If viewers constantly skip ads, the product isn't sustainable for advertisers
+
+**5. Cross-Grade Rate (Ad-Tier to Premium)**
+- Target: 10% annual upgrade rate
+- Why this matters: Creates upsell pipeline and validates the "ladder" strategy
+
+**6. Social Sentiment Analysis**
+- Target: Positive sentiment (≥60%) on campaign-related social posts
+- Why this matters: Young audiences trust peer opinions over corporate metrics
+
+### Unconventional Metric I Proposed
+
+**"Time to First Ad Complaint"**
+- Measure how long into free trial before users comment about ads
+- Hypothesis: If complaints come in first week, onboarding messaging is insufficient. If they come after 3+ weeks, messaging was effective.
+
+This metric isn't standard, but it captures something important: **expectation management**. The goal isn't zero complaints—it's informed complaints (users knew what they signed up for).
+
+---
+
+## What I'd Do Differently: Honest Reflection
+
+### Limitations I Encountered
+
+**1. Over-Reliance on LLM Structure in Early Drafts**
+My first outline came directly from ChatGPT. It was logical but generic. I spent significant time unlearning the AI's organizational framework to create something more distinctive.
+
+**Lesson:** Start with human brainstorming, then use AI to fill gaps—not the reverse.
+
+**2. Difficulty Verifying Demographic Claims**
+LLMs confidently cite statistics that don't exist. I spent hours trying to verify a claim about "Gen Z streaming habits" before realizing it was AI-generated fiction.
+
+**Lesson:** Treat all LLM claims as hypotheses requiring verification.
+
+**3. Creative Ideas Felt "Safe"**
+When I asked LLMs for campaign ideas, responses were professionally adequate but uninspired. The "Watch More, Pay Less" tagline came from my own brainstorming after midnight when I stopped trying to sound "business-like."
+
+**Lesson:** AI outputs often reflect the average of its training data—which means they avoid creative risk.
+
+### What I'm Curious About for Future Work
+
+**1. Long-term brand impact:**
+How will introducing ads affect Netflix's premium tier positioning 5 years from now? Does creating a two-tier system erode the "prestige" factor?
+
+**2. Ad content curation:**
+Could Netflix differentiate by making ads actually relevant and non-intrusive? (Spotify does this well—Netflix could too)
+
+**3. International rollout:**
+My analysis focused on North America. How would this campaign adapt for markets with different attitudes toward ads?
+
+---
+
+## Final Thoughts: AI as a Tool, Not a Substitute
+
+This project reinforced something I've observed in my hospitality work: **technology enhances human service but can't replace human judgment**.
+
+LLMs are powerful brainstorming partners. They accelerate research, suggest frameworks, and generate options I wouldn't have considered. But the strategic decisions—what to emphasize, how to message, what risks to take—required human intuition, market sense, and personal judgment.
+
+**The most valuable part of this project wasn't the final strategy document. It was learning to interrogate AI outputs critically:**
+- When is this generic?
+- Where's the distinctive insight?
+- Would I believe this if someone else wrote it?
+
+As I move toward management roles in hospitality and senior living, I expect AI tools to become more prevalent. This project gave me a framework for using them effectively: **leverage AI for breadth, then add human depth**.
+
+---
+
+::: {.callout-note}
+## 📄 Project Deliverables
+
+**Full Report:** [Download PDF](assets/Netflix_Strategy_Report.pdf) *(Business strategy document with campaign details, budget breakdown, and implementation timeline)*
+
+**Presentation Slides:** [View Slides](assets/Netflix_Presentation.pdf) *(Executive summary and visual campaign mockups)*
+
+**Quarto Source Files:** Available upon request for those interested in the technical documentation process
+:::
+
+---
+
+::: {.reflection-box}
+## Personal Takeaway
+
+This wasn't just a business project—it was a lesson in **critical thinking in the age of AI**. The most marketable skill isn't knowing how to use ChatGPT. It's knowing when its outputs are sufficient, when they need refinement, and when they should be discarded entirely.
+
+That's the kind of judgment that will matter in management roles—and it's something AI can't replicate.
+:::

@@ -1,7 +1,6 @@
 # Quarto output
 /.quarto/
-/_site/
-/docs/
+
 
 # R and RStudio
 .Rproj.user

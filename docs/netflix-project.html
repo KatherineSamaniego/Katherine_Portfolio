@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.26">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Netflix Advertising Strategy Analysis – Katherine Samaniego | MBA Portfolio</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-5e6bd0f431d9db1b2e65cd770f46ab1a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Katherine Samaniego | MBA Portfolio</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./experience.html"> 
+<span class="menu-text">Experience</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./skills.html"> 
+<span class="menu-text">Skills</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://linkedin.com/in/katherine-samaniego-ventura-4750401a5"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./assets/Katherine_Resume.pdf"> <i class="bi bi-file-pdf" role="img" aria-label="Download Resume">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#project-overview" id="toc-project-overview" class="nav-link active" data-scroll-target="#project-overview">Project Overview</a></li>
+  <li><a href="#why-netflix-and-why-now" id="toc-why-netflix-and-why-now" class="nav-link" data-scroll-target="#why-netflix-and-why-now">Why Netflix and Why Now?</a></li>
+  <li><a href="#research-methodology-working-with-llms" id="toc-research-methodology-working-with-llms" class="nav-link" data-scroll-target="#research-methodology-working-with-llms">Research Methodology: Working with LLMs</a></li>
+  <li><a href="#question-development-strategic-framework" id="toc-question-development-strategic-framework" class="nav-link" data-scroll-target="#question-development-strategic-framework">Question Development &amp; Strategic Framework</a></li>
+  <li><a href="#campaign-development-watch-more-pay-less" id="toc-campaign-development-watch-more-pay-less" class="nav-link" data-scroll-target="#campaign-development-watch-more-pay-less">Campaign Development: “Watch More, Pay Less”</a></li>
+  <li><a href="#llm-responses-what-ai-generated-vs.-what-i-used" id="toc-llm-responses-what-ai-generated-vs.-what-i-used" class="nav-link" data-scroll-target="#llm-responses-what-ai-generated-vs.-what-i-used">LLM Responses: What AI Generated vs.&nbsp;What I Used</a></li>
+  <li><a href="#human-evaluation-assessing-quality-beyond-ai-metrics" id="toc-human-evaluation-assessing-quality-beyond-ai-metrics" class="nav-link" data-scroll-target="#human-evaluation-assessing-quality-beyond-ai-metrics">Human Evaluation: Assessing Quality Beyond AI Metrics</a></li>
+  <li><a href="#metrics-success-indicators" id="toc-metrics-success-indicators" class="nav-link" data-scroll-target="#metrics-success-indicators">Metrics &amp; Success Indicators</a></li>
+  <li><a href="#what-id-do-differently-honest-reflection" id="toc-what-id-do-differently-honest-reflection" class="nav-link" data-scroll-target="#what-id-do-differently-honest-reflection">What I’d Do Differently: Honest Reflection</a></li>
+  <li><a href="#final-thoughts-ai-as-a-tool-not-a-substitute" id="toc-final-thoughts-ai-as-a-tool-not-a-substitute" class="nav-link" data-scroll-target="#final-thoughts-ai-as-a-tool-not-a-substitute">Final Thoughts: AI as a Tool, Not a Substitute</a></li>
+  <li><a href="#personal-takeaway" id="toc-personal-takeaway" class="nav-link" data-scroll-target="#personal-takeaway">Personal Takeaway</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Netflix Advertising Strategy Analysis</h1>
+<p class="subtitle lead">Using LLMs for Business Intelligence and Strategic Marketing</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="project-header">
+<p><strong>Course:</strong> BUSI 654 – Application of AI in Business <strong>Type:</strong> Individual Business Report <strong>Year:</strong> 2025</p>
+</div>
+<hr>
+<section id="project-overview" class="level2">
+<h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
+<p>This project explores how large language models (LLMs) can be leveraged for business strategy development. I analyzed Netflix’s advertising landscape and developed a comprehensive marketing campaign for their ad-supported subscription tier.</p>
+<p>What started as a straightforward business analysis became an interesting exploration of how AI tools can enhance—but not replace—strategic thinking. I used LLMs primarily as brainstorming partners and research assistants, but the strategic decisions, creative direction, and final analysis remained distinctly human-driven.</p>
+<p><strong>Key Challenge:</strong> How can we balance AI assistance with authentic strategic thinking to create actionable business recommendations?</p>
+<hr>
+</section>
+<section id="why-netflix-and-why-now" class="level2">
+<h2 class="anchored" data-anchor-id="why-netflix-and-why-now">Why Netflix and Why Now?</h2>
+<p>I chose Netflix’s ad-supported tier for three specific reasons that made this project personally interesting:</p>
+<p><strong>1. Market Timing:</strong> Netflix launched their ad-supported plan in late 2022, which means we’re still in the early adoption phase. This timing creates a unique opportunity to analyze real-time strategy adjustments rather than just retrospective case studies.</p>
+<p><strong>2. Industry Disruption:</strong> Netflix spent years positioning itself as “ad-free premium entertainment,” then reversed course. This strategic pivot fascinates me because it shows how even industry leaders must adapt to market pressures (subscriber losses, competition, revenue needs).</p>
+<p><strong>3. Personal Context:</strong> As an MBA student in hospitality management, I’m drawn to businesses that balance service excellence with financial sustainability. Netflix’s challenge mirrors what I see in senior living operations—how do you maintain quality experience while managing different pricing tiers?</p>
+<section id="what-makes-this-different-from-typical-case-studies" class="level3">
+<h3 class="anchored" data-anchor-id="what-makes-this-different-from-typical-case-studies">What Makes This Different from Typical Case Studies?</h3>
+<p>Most Netflix case studies focus on content strategy or subscriber metrics. I deliberately chose to focus on the <strong>advertising psychology and campaign design</strong> because: - There’s less existing analysis (more room for original thinking) - It connects to my interest in customer behavior across demographics - The ad-supported tier requires understanding both advertisers AND viewers—a dual-customer challenge I find compelling</p>
+<hr>
+</section>
+</section>
+<section id="research-methodology-working-with-llms" class="level2">
+<h2 class="anchored" data-anchor-id="research-methodology-working-with-llms">Research Methodology: Working with LLMs</h2>
+<section id="my-approach-to-ai-assisted-research" class="level3">
+<h3 class="anchored" data-anchor-id="my-approach-to-ai-assisted-research">My Approach to AI-Assisted Research</h3>
+<p>I used ChatGPT (GPT-4) and Claude as research assistants, but I quickly learned that effective LLM use requires <strong>strategic prompting</strong> rather than passive questioning.</p>
+<p><strong>What worked well:</strong> - Using LLMs to generate competitor comparison frameworks - Asking for demographic research on 18–38 age groups’ media habits - Brainstorming unconventional campaign messaging angles</p>
+<p><strong>What didn’t work:</strong> - Generic prompts like “analyze Netflix advertising” produced surface-level responses - LLMs sometimes invented statistics that seemed plausible but weren’t real - Creative campaign ideas from LLMs often felt safe and uninspired</p>
+<p>This led me to develop a <strong>two-stage verification process:</strong></p>
+<ol type="1">
+<li><strong>First Pass:</strong> Use LLM to generate ideas and structure</li>
+<li><strong>Second Pass:</strong> Verify every claim against actual sources (annual reports, Statista, Nielsen data, marketing journals)</li>
+</ol>
+<p>The result? About 30% of LLM-generated content made it to the final report—the rest was either too generic, unverifiable, or lacked strategic nuance.</p>
+<hr>
+</section>
+</section>
+<section id="question-development-strategic-framework" class="level2">
+<h2 class="anchored" data-anchor-id="question-development-strategic-framework">Question Development &amp; Strategic Framework</h2>
+<section id="the-core-questions-i-asked" class="level3">
+<h3 class="anchored" data-anchor-id="the-core-questions-i-asked">The Core Questions I Asked</h3>
+<p>Rather than asking surface-level questions like “What is Netflix’s target audience?” I developed three strategic questions that required synthesis and analysis:</p>
+<section id="question-1-how-has-netflixs-brand-identity-shifted-with-the-introduction-of-ads-and-what-does-this-mean-for-long-term-subscriber-perception" class="level4">
+<h4 class="anchored" data-anchor-id="question-1-how-has-netflixs-brand-identity-shifted-with-the-introduction-of-ads-and-what-does-this-mean-for-long-term-subscriber-perception">Question 1: How has Netflix’s brand identity shifted with the introduction of ads, and what does this mean for long-term subscriber perception?</h4>
+<p><strong>Why this question matters:</strong> Netflix built its reputation on ad-free viewing. Introducing ads isn’t just a revenue tactic—it’s a fundamental brand repositioning. I wanted to understand the psychological trade-offs.</p>
+<p><strong>Alternatives considered:</strong> - “What are Netflix’s main competitors?” (Too descriptive, no analysis) - “How successful is the ad-supported tier?” (Too early for conclusive data)</p>
+<p><strong>What I discovered:</strong> The shift reveals a tension between premium positioning and accessibility. Netflix is essentially creating a two-tier class system among subscribers. This echoes what I’ve observed in hospitality—when you create tiers, you must carefully manage how each segment perceives value.</p>
+</section>
+<section id="question-2-what-messaging-strategy-can-make-ads-feel-less-like-an-interruption-and-more-like-an-acceptable-trade-off-for-cost-savings" class="level4">
+<h4 class="anchored" data-anchor-id="question-2-what-messaging-strategy-can-make-ads-feel-less-like-an-interruption-and-more-like-an-acceptable-trade-off-for-cost-savings">Question 2: What messaging strategy can make ads feel less like an interruption and more like an acceptable trade-off for cost savings?</h4>
+<p><strong>Why this question matters:</strong> Most analysis focuses on <em>whether</em> to introduce ads. I wanted to explore <em>how</em> to message them. This is a human psychology question, not just a business question.</p>
+<p><strong>Creative angles explored:</strong> - Positioning ads as “supporting creators” (didn’t feel authentic for Netflix) - Emphasizing cost savings (too transactional, lacks emotional resonance) - <strong>Final choice:</strong> “Watch more, pay less” campaign (balances practicality with lifestyle benefit)</p>
+</section>
+<section id="question-3-which-advertising-channels-best-reach-price-sensitive-younger-viewers-who-still-value-premium-content" class="level4">
+<h4 class="anchored" data-anchor-id="question-3-which-advertising-channels-best-reach-price-sensitive-younger-viewers-who-still-value-premium-content">Question 3: Which advertising channels best reach price-sensitive younger viewers who still value premium content?</h4>
+<p><strong>Why this question matters:</strong> The target audience (18–38, budget-conscious but quality-seeking) exists across multiple platforms. Rather than defaulting to “social media advertising,” I wanted to explore channel-specific strategies.</p>
+<p><strong>Unconventional insight:</strong> TikTok isn’t just a channel for ads—it’s a content discovery platform. I proposed partnering with creators who make “what I watched this month” content, which feels native rather than promotional.</p>
+<hr>
+</section>
+</section>
+</section>
+<section id="campaign-development-watch-more-pay-less" class="level2">
+<h2 class="anchored" data-anchor-id="campaign-development-watch-more-pay-less">Campaign Development: “Watch More, Pay Less”</h2>
+<section id="the-strategic-rationale" class="level3">
+<h3 class="anchored" data-anchor-id="the-strategic-rationale">The Strategic Rationale</h3>
+<p>Most streaming service ads emphasize content breadth (“thousands of shows!”). I noticed this approach commodifies Netflix—it makes them sound interchangeable with other services.</p>
+<p>Instead, I developed <strong>“Watch More, Pay Less”</strong> to emphasize a lifestyle benefit: - “Watch More” implies guilt-free binge-watching and time for yourself - “Pay Less” positions ads as an empowering choice, not a compromise</p>
+</section>
+<section id="why-this-resonated-with-me" class="level3">
+<h3 class="anchored" data-anchor-id="why-this-resonated-with-me">Why This Resonated with Me</h3>
+<p>Having worked in hospitality and senior living, I’ve seen how small language shifts change customer perception. In retirement homes, we don’t say “assisted living”—we say “supportive living” because it maintains dignity and autonomy.</p>
+<p>Similarly, “Watch More, Pay Less” doesn’t say “cheap tier with ads”—it says “smart choice for savvy viewers.”</p>
+</section>
+<section id="media-mix-strategy" class="level3">
+<h3 class="anchored" data-anchor-id="media-mix-strategy">Media Mix Strategy</h3>
+<p>I designed a channel strategy based on where the target audience actually spends time:</p>
+<p><strong>Digital Channels (70% of budget):</strong> - YouTube pre-roll (reaches viewers already in “watching” mode) - Meta/Instagram Stories (visual, quick, scrollable format) - TikTok creator partnerships (native, authentic recommendations)</p>
+<p><strong>Traditional Media (30% of budget):</strong> - Spotify/podcast ads (captures commuters and multitaskers) - Selected transit ads in urban areas (targets young professionals)</p>
+<p><strong>Why not TV ads?</strong> The target audience is cord-cutters. TV advertising would contradict the insight that they’ve already left traditional TV behind.</p>
+<hr>
+</section>
+</section>
+<section id="llm-responses-what-ai-generated-vs.-what-i-used" class="level2">
+<h2 class="anchored" data-anchor-id="llm-responses-what-ai-generated-vs.-what-i-used">LLM Responses: What AI Generated vs.&nbsp;What I Used</h2>
+<section id="section-purpose" class="level3">
+<h3 class="anchored" data-anchor-id="section-purpose">Section Purpose</h3>
+<p>This section shows <strong>how I used LLM outputs as raw material</strong> rather than final content. Understanding what AI generates versus what requires human judgment is critical for ethical AI use in business.</p>
+</section>
+<section id="example-1-target-audience-analysis" class="level3 llm-comparison">
+<h3 class="anchored" data-anchor-id="example-1-target-audience-analysis">Example 1: Target Audience Analysis</h3>
+<p><strong>LLM Initial Response:</strong> &gt; “Netflix’s ad-supported tier targets budget-conscious consumers aged 18-35 who want access to premium content at a lower price point. These users are typically young professionals, students, and families.”</p>
+<p><strong>Why this wasn’t sufficient:</strong> - Too generic (could describe any streaming service) - Missed psychographic details (values, behaviors, motivations) - Lacked competitive context</p>
+<p><strong>My Refined Analysis:</strong> The primary audience is <strong>price-sensitive but quality-conscious viewers aged 18–38</strong> who: - Grew up with streaming (no nostalgia for cable TV) - Subscribe to multiple services but experience “subscription fatigue” - Value content curation over content volume - Are active on social media and trust peer recommendations over traditional ads</p>
+<p>This group isn’t “cheap”—they’re strategic about spending. They’ll pay for quality (hence choosing Netflix over free options) but seek value optimization (hence choosing ad-supported over premium).</p>
+</section>
+<section id="example-2-campaign-messaging" class="level3 llm-comparison">
+<h3 class="anchored" data-anchor-id="example-2-campaign-messaging">Example 2: Campaign Messaging</h3>
+<p><strong>LLM Initial Response:</strong> &gt; “Emphasize the vast library of content available at a fraction of the cost. Highlight popular shows and movies to demonstrate value.”</p>
+<p><strong>Why this felt generic:</strong> - Focus on content catalog (what every streaming service says) - Transactional framing (lacks emotional connection) - Doesn’t address the “ads” part (avoids the main friction point)</p>
+<p><strong>My Creative Direction:</strong> Instead of avoiding ads, <strong>acknowledge them directly with humor and honesty:</strong></p>
+<p><em>Sample ad copy:</em> “Yeah, there are ads. But your wallet will thank you. Watch more guilt-free Netflix. Pay less guilt-inducing bills.”</p>
+<p>This approach: - Disarms the negative (honesty builds trust) - Uses humor (makes ads feel less serious) - Balances practical benefit (lower cost) with emotional benefit (guilt-free enjoyment)</p>
+</section>
+<section id="what-this-comparison-reveals" class="level3">
+<h3 class="anchored" data-anchor-id="what-this-comparison-reveals">What This Comparison Reveals</h3>
+<p>LLMs excel at <strong>structure and breadth</strong> but struggle with <strong>nuance and originality</strong>. They generate “safe” responses that sound professional but lack distinctive voice or strategic risk-taking.</p>
+<p>The transition from LLM output to final strategy required: 1. <strong>Specificity:</strong> Adding demographic and psychographic details 2. <strong>Context:</strong> Connecting to broader industry trends and competitive dynamics 3. <strong>Creativity:</strong> Introducing unexpected angles (humor, honesty, lifestyle framing) 4. <strong>Voice:</strong> Writing in a tone that reflects how real people think, not how AI thinks business documents should sound</p>
+<hr>
+</section>
+</section>
+<section id="human-evaluation-assessing-quality-beyond-ai-metrics" class="level2">
+<h2 class="anchored" data-anchor-id="human-evaluation-assessing-quality-beyond-ai-metrics">Human Evaluation: Assessing Quality Beyond AI Metrics</h2>
+<section id="why-human-evaluation-mattered" class="level3">
+<h3 class="anchored" data-anchor-id="why-human-evaluation-mattered">Why Human Evaluation Mattered</h3>
+<p>After generating and refining LLM content, I needed to evaluate whether my final strategy actually worked. AI can generate text, but it can’t assess <strong>strategic soundness</strong> or <strong>market fit</strong>.</p>
+<p>I developed a three-layer evaluation framework:</p>
+<section id="layer-1-logical-coherence" class="level4">
+<h4 class="anchored" data-anchor-id="layer-1-logical-coherence">Layer 1: Logical Coherence</h4>
+<p><strong>Question:</strong> Does the strategy internally make sense?</p>
+<p><strong>Evaluation Method:</strong> I created a logic map connecting: - Target audience traits → Campaign messaging → Channel selection → Expected outcomes</p>
+<p><strong>Findings:</strong> Initial messaging focused too heavily on cost savings without addressing the psychological barrier of ads. This created a logical gap: if people were purely cost-driven, they’d choose free streaming services instead.</p>
+<p><strong>Adjustment:</strong> Shifted messaging to emphasize <strong>lifestyle trade-off</strong> (“Watch more guilt-free content”) rather than pure cost savings.</p>
+</section>
+<section id="layer-2-market-realism" class="level4">
+<h4 class="anchored" data-anchor-id="layer-2-market-realism">Layer 2: Market Realism</h4>
+<p><strong>Question:</strong> Would this actually work in Netflix’s competitive environment?</p>
+<p><strong>Evaluation Method:</strong> Compared my strategy against real campaigns by Disney+, Hulu, and Peacock (all offer ad-supported tiers).</p>
+<p><strong>Surprising Finding:</strong> Most competitors focus on <strong>content exclusivity</strong> (“Only on Disney+”). Netflix’s strength isn’t exclusive content anymore—it’s <strong>curation and recommendation</strong>.</p>
+<p><strong>Strategic Implication:</strong> My campaign should emphasize Netflix’s ability to “know what you’ll love” rather than competing on content breadth. The ads don’t interrupt this value—they subsidize it.</p>
+</section>
+<section id="layer-3-personal-stress-testing" class="level4">
+<h4 class="anchored" data-anchor-id="layer-3-personal-stress-testing">Layer 3: Personal Stress-Testing</h4>
+<p><strong>Question:</strong> Would I believe this campaign if I saw it?</p>
+<p><strong>Evaluation Method:</strong> I role-played as three different viewer personas: 1. <strong>Budget-conscious student</strong> (me 5 years ago) 2. <strong>Young professional</strong> (me now, juggling MBA + work) 3. <strong>Parent</strong> (not me, but representing family subscribers)</p>
+<p><strong>Result:</strong> As a budget-conscious student, the campaign would resonate because it validates a smart financial choice. As a young professional, I’d appreciate honesty about ads rather than corporate spin. As a parent, I’d want reassurance that ad content is family-appropriate (a gap I added to implementation notes).</p>
+</section>
+</section>
+<section id="what-i-learned-about-human-judgment" class="level3">
+<h3 class="anchored" data-anchor-id="what-i-learned-about-human-judgment">What I Learned About Human Judgment</h3>
+<p>This evaluation process taught me that <strong>strategy isn’t just about being correct—it’s about being believable</strong>. LLMs generate “correct” content, but humans assess credibility, emotional resonance, and practical feasibility.</p>
+<p><strong>Key Realization:</strong> The best campaigns don’t just present information—they anticipate objections and address them preemptively. The “Yeah, there are ads” messaging came from this human evaluation phase, not from LLM brainstorming.</p>
+<hr>
+</section>
+</section>
+<section id="metrics-success-indicators" class="level2">
+<h2 class="anchored" data-anchor-id="metrics-success-indicators">Metrics &amp; Success Indicators</h2>
+<section id="how-id-measure-campaign-effectiveness" class="level3">
+<h3 class="anchored" data-anchor-id="how-id-measure-campaign-effectiveness">How I’d Measure Campaign Effectiveness</h3>
+<p>Most business reports list generic metrics (awareness, engagement, conversion). I developed metrics tied to <strong>specific strategic goals</strong>:</p>
+<section id="primary-metrics-what-success-looks-like-in-6-months" class="level4">
+<h4 class="anchored" data-anchor-id="primary-metrics-what-success-looks-like-in-6-months">Primary Metrics (What success looks like in 6 months):</h4>
+<p><strong>1. Ad-Tier Subscriber Growth Rate</strong> - Target: 15% quarter-over-quarter growth - Why this matters: Proves the messaging resonates with target audience</p>
+<p><strong>2. Conversion from Free Trial to Paid Ad-Tier</strong> - Target: 60% conversion rate - Why this matters: Shows the experience matches expectations (ads aren’t worse than anticipated)</p>
+<p><strong>3. Churn Rate Comparison (Ad-Tier vs.&nbsp;Premium)</strong> - Target: No more than 5% difference - Why this matters: If ad-tier churn is significantly higher, the trade-off isn’t balanced</p>
+</section>
+<section id="secondary-metrics-what-predicts-long-term-success" class="level4">
+<h4 class="anchored" data-anchor-id="secondary-metrics-what-predicts-long-term-success">Secondary Metrics (What predicts long-term success):</h4>
+<p><strong>4. Ad Engagement Rate</strong> - Target: 70% of ads watched to completion - Why this matters: If viewers constantly skip ads, the product isn’t sustainable for advertisers</p>
+<p><strong>5. Cross-Grade Rate (Ad-Tier to Premium)</strong> - Target: 10% annual upgrade rate - Why this matters: Creates upsell pipeline and validates the “ladder” strategy</p>
+<p><strong>6. Social Sentiment Analysis</strong> - Target: Positive sentiment (≥60%) on campaign-related social posts - Why this matters: Young audiences trust peer opinions over corporate metrics</p>
+</section>
+</section>
+<section id="unconventional-metric-i-proposed" class="level3">
+<h3 class="anchored" data-anchor-id="unconventional-metric-i-proposed">Unconventional Metric I Proposed</h3>
+<p><strong>“Time to First Ad Complaint”</strong> - Measure how long into free trial before users comment about ads - Hypothesis: If complaints come in first week, onboarding messaging is insufficient. If they come after 3+ weeks, messaging was effective.</p>
+<p>This metric isn’t standard, but it captures something important: <strong>expectation management</strong>. The goal isn’t zero complaints—it’s informed complaints (users knew what they signed up for).</p>
+<hr>
+</section>
+</section>
+<section id="what-id-do-differently-honest-reflection" class="level2">
+<h2 class="anchored" data-anchor-id="what-id-do-differently-honest-reflection">What I’d Do Differently: Honest Reflection</h2>
+<section id="limitations-i-encountered" class="level3">
+<h3 class="anchored" data-anchor-id="limitations-i-encountered">Limitations I Encountered</h3>
+<p><strong>1. Over-Reliance on LLM Structure in Early Drafts</strong> My first outline came directly from ChatGPT. It was logical but generic. I spent significant time unlearning the AI’s organizational framework to create something more distinctive.</p>
+<p><strong>Lesson:</strong> Start with human brainstorming, then use AI to fill gaps—not the reverse.</p>
+<p><strong>2. Difficulty Verifying Demographic Claims</strong> LLMs confidently cite statistics that don’t exist. I spent hours trying to verify a claim about “Gen Z streaming habits” before realizing it was AI-generated fiction.</p>
+<p><strong>Lesson:</strong> Treat all LLM claims as hypotheses requiring verification.</p>
+<p><strong>3. Creative Ideas Felt “Safe”</strong> When I asked LLMs for campaign ideas, responses were professionally adequate but uninspired. The “Watch More, Pay Less” tagline came from my own brainstorming after midnight when I stopped trying to sound “business-like.”</p>
+<p><strong>Lesson:</strong> AI outputs often reflect the average of its training data—which means they avoid creative risk.</p>
+</section>
+<section id="what-im-curious-about-for-future-work" class="level3">
+<h3 class="anchored" data-anchor-id="what-im-curious-about-for-future-work">What I’m Curious About for Future Work</h3>
+<p><strong>1. Long-term brand impact:</strong> How will introducing ads affect Netflix’s premium tier positioning 5 years from now? Does creating a two-tier system erode the “prestige” factor?</p>
+<p><strong>2. Ad content curation:</strong> Could Netflix differentiate by making ads actually relevant and non-intrusive? (Spotify does this well—Netflix could too)</p>
+<p><strong>3. International rollout:</strong> My analysis focused on North America. How would this campaign adapt for markets with different attitudes toward ads?</p>
+<hr>
+</section>
+</section>
+<section id="final-thoughts-ai-as-a-tool-not-a-substitute" class="level2">
+<h2 class="anchored" data-anchor-id="final-thoughts-ai-as-a-tool-not-a-substitute">Final Thoughts: AI as a Tool, Not a Substitute</h2>
+<p>This project reinforced something I’ve observed in my hospitality work: <strong>technology enhances human service but can’t replace human judgment</strong>.</p>
+<p>LLMs are powerful brainstorming partners. They accelerate research, suggest frameworks, and generate options I wouldn’t have considered. But the strategic decisions—what to emphasize, how to message, what risks to take—required human intuition, market sense, and personal judgment.</p>
+<p><strong>The most valuable part of this project wasn’t the final strategy document. It was learning to interrogate AI outputs critically:</strong> - When is this generic? - Where’s the distinctive insight? - Would I believe this if someone else wrote it?</p>
+<p>As I move toward management roles in hospitality and senior living, I expect AI tools to become more prevalent. This project gave me a framework for using them effectively: <strong>leverage AI for breadth, then add human depth</strong>.</p>
+<hr>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>📄 Project Deliverables
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Full Report:</strong> <a href="assets/Netflix_Strategy_Report.pdf">Download PDF</a> <em>(Business strategy document with campaign details, budget breakdown, and implementation timeline)</em></p>
+<p><strong>Presentation Slides:</strong> <a href="assets/Netflix_Presentation.pdf">View Slides</a> <em>(Executive summary and visual campaign mockups)</em></p>
+<p><strong>Quarto Source Files:</strong> Available upon request for those interested in the technical documentation process</p>
+</div>
+</div>
+<hr>
+</section>
+<section id="personal-takeaway" class="level2 reflection-box">
+<h2 class="anchored" data-anchor-id="personal-takeaway">Personal Takeaway</h2>
+<p>This wasn’t just a business project—it was a lesson in <strong>critical thinking in the age of AI</strong>. The most marketable skill isn’t knowing how to use ChatGPT. It’s knowing when its outputs are sufficient, when they need refinement, and when they should be discarded entirely.</p>
+<p>That’s the kind of judgment that will matter in management roles—and it’s something AI can’t replicate.</p>
+</section>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

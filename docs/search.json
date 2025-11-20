@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Below is a summary of my key professional skills, organized by category. These skills have been developed through hands-on experience in hospitality, education, sales, and administrative roles, and are being further refined through my MBA coursework.\n\n\n\n\nClient-focused service excellence\nAdministrative and operations support\nEvent and project coordination\nStock and inventory management\nTime management and multitasking\nAdaptability in multicultural teams\nWritten and verbal communication\n\n\n\n\n\n\nMicrosoft Word, Excel, and PowerPoint\nBasic data analysis and reporting in Excel\nQuarto for structured reports and websites\nExperience using large language models (LLMs) for brainstorming and drafting\nEmail and reservation systems in hospitality environments"
+  },
+  {
+    "objectID": "skills.html#core-competencies",
+    "href": "skills.html#core-competencies",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Below is a summary of my key professional skills, organized by category. These skills have been developed through hands-on experience in hospitality, education, sales, and administrative roles, and are being further refined through my MBA coursework.\n\n\n\n\nClient-focused service excellence\nAdministrative and operations support\nEvent and project coordination\nStock and inventory management\nTime management and multitasking\nAdaptability in multicultural teams\nWritten and verbal communication\n\n\n\n\n\n\nMicrosoft Word, Excel, and PowerPoint\nBasic data analysis and reporting in Excel\nQuarto for structured reports and websites\nExperience using large language models (LLMs) for brainstorming and drafting\nEmail and reservation systems in hospitality environments"
+  },
+  {
+    "objectID": "skills.html#languages",
+    "href": "skills.html#languages",
+    "title": "Skills & Certifications",
+    "section": "Languages",
+    "text": "Languages\n\n\n\nLanguage\nProficiency\n\n\n\n\nSpanish\nNative\n\n\nEnglish\nFluent\n\n\nFrench\nBasic\n\n\n\nMy bilingual abilities have enabled me to work effectively in diverse environments, from international cruise operations to supporting multicultural communities in Vancouver and Lima."
+  },
+  {
+    "objectID": "skills.html#certifications-professional-development",
+    "href": "skills.html#certifications-professional-development",
+    "title": "Skills & Certifications",
+    "section": "Certifications & Professional Development",
+    "text": "Certifications & Professional Development\n\nServing It Right – Responsible Beverage Service (BC)\nCompleted the Serving It Right training program, which covers responsible liquor service, signs of intoxication, legal liability, duty of care on and off premises, and the importance of enforcing safe beverage service policies.\nIssued: December 11, 2021 · Expires: December 12, 2026\n\n\n\nFood Handler Certificate\nCertified in safe food handling practices, including proper food storage, temperature control, cross-contamination prevention, personal hygiene, and sanitation procedures to ensure food safety in hospitality and senior care environments.\nIssued: November 16, 2025 · Expires: November 16, 2030\n\n\n\nOngoing Learning\nOngoing learning in AI in business, leadership, and digital transformation as part of my MBA at University Canada West\n\n\n\n\n\n\n\nTip📄 Download My Resume\n\n\n\nFor a complete overview of my skills and experience, download my resume (PDF)."
+  },
+  {
+    "objectID": "NEXT-STEPS.html",
+    "href": "NEXT-STEPS.html",
+    "title": "📋 Next Steps for Your MBA Portfolio",
+    "section": "",
+    "text": "Your multi-page Quarto portfolio website has been created! Follow these steps to personalize and publish it.\n\n\n\nAdd your professional photo\n\nSave a professional headshot as assets/profile-photo.jpg\nRecommended size: 500x500px (square)\n\nAdd your resume PDF\n\nExport your resume as a PDF\nSave it as assets/Katherine_Samaniego_Resume.pdf\n\nOptional: Add project images\n\nScreenshots from El Paisano project\nCharts from Netflix report\nSlides from leadership presentation\n\n\n\n\n\n⚠️ VERY IMPORTANT: Your instructor wants to see YOUR voice, not AI-generated text!\n\n\nIn index.qmd (Home page): - Personal introduction about what drives you professionally - What you hope to do after graduation - What you’re most excited to learn in your MBA\nIn experience.qmd (Experience page): - Revise the professional summary in your own voice - Add reflections about what you learned in each role - Describe what you hope to achieve with your MBA\nIn projects.qmd (Projects page): - Introductory sentence about what these projects mean to you - Personal learnings from El Paisano project - Reflections on Netflix AI report and using Quarto - How the Leadership project changed your thinking\nIn skills.qmd (Skills page): - How you’ve built these skills - Any additional software/tools you’ve learned - Which leadership skills you’re developing during MBA - How your bilingual abilities have helped your career - Future certifications you plan to pursue\nIn contact.qmd (Contact page): - What kind of conversations you’re hoping to have - Volunteer work or community involvement - Student clubs or MBA associations - Any leadership or cultural organizations\n\n\n\n\nOpen each .qmd file in a text editor\nUse Ctrl+F (Windows) or Cmd+F (Mac) to search for [TODO\nReplace EVERY instance with your own authentic writing\n\n\n\n\n\n\nOpen terminal/command prompt in the WRCD-239 folder\nRun preview command:\nquarto preview\nYour website will open in a browser at http://localhost:XXXX\nMake edits to the .qmd files and save - the preview will auto-refresh\nPress Ctrl+C in the terminal when done previewing\n\n\n\n\nWhen you’re happy with your content:\nquarto render\nThis creates the final website in the docs/ folder.\n\n\n\n\nAll [TODO] placeholders replaced with my own writing\nProfile photo exists in assets/profile-photo.jpg\nResume PDF exists in assets/Katherine_Samaniego_Resume.pdf\nAll links (LinkedIn, email, resume) work correctly\nNavigation bar works (can click between all pages)\nContent sounds like MY voice, not AI\nNo invented information (all jobs, dates, skills are accurate)\nAPA citations added if I referenced external sources\nWebsite renders without errors\n\n\n\n\nIf you want to put your portfolio online:\n\n\n\nCreate a GitHub account if you don’t have one\nCreate a new repository\nUpload all files to the repository\nGo to Settings → Pages → Select docs/ folder\nYour site will be live at https://yourusername.github.io/repo-name\n\n\n\n\nquarto publish quarto-pub\nFollow the prompts to create an account and publish.\n\n\n\n\nGo to https://app.netlify.com/drop\nDrag and drop your entire docs/ folder\nGet an instant live URL\n\n\n\n\n\n\nQuarto won’t render? Check for YAML errors (indentation matters!)\nImages not showing? Verify file paths and that files exist in assets/\nLinks broken? Make sure all linked files are in the correct locations\n\nResources: - Quarto Docs: https://quarto.org/docs/websites/ - Quarto Gallery: https://quarto.org/docs/gallery/ - README.md has full troubleshooting guide\n\n\n\nYour instructor is evaluating: 1. ✅ Organization & clarity (structure is done!) 2. ✅ Content completeness (replace all TODOs!) 3. ✅ Your authentic voice (write in YOUR words!) 4. ✅ Visual elements (add photos, resume PDF, links) 5. ✅ Professional presentation (Quarto does this!)\nThe technical structure is complete. Now make it YOURS! 🚀\n\nQuestions? Check the main README.md file for detailed documentation."
+  },
+  {
+    "objectID": "NEXT-STEPS.html#step-1-add-your-media-files-required",
+    "href": "NEXT-STEPS.html#step-1-add-your-media-files-required",
+    "title": "📋 Next Steps for Your MBA Portfolio",
+    "section": "",
+    "text": "Add your professional photo\n\nSave a professional headshot as assets/profile-photo.jpg\nRecommended size: 500x500px (square)\n\nAdd your resume PDF\n\nExport your resume as a PDF\nSave it as assets/Katherine_Samaniego_Resume.pdf\n\nOptional: Add project images\n\nScreenshots from El Paisano project\nCharts from Netflix report\nSlides from leadership presentation"
+  },
+  {
+    "objectID": "NEXT-STEPS.html#step-2-personalize-all-content-critical",
+    "href": "NEXT-STEPS.html#step-2-personalize-all-content-critical",
+    "title": "📋 Next Steps for Your MBA Portfolio",
+    "section": "",
+    "text": "⚠️ VERY IMPORTANT: Your instructor wants to see YOUR voice, not AI-generated text!\n\n\nIn index.qmd (Home page): - Personal introduction about what drives you professionally - What you hope to do after graduation - What you’re most excited to learn in your MBA\nIn experience.qmd (Experience page): - Revise the professional summary in your own voice - Add reflections about what you learned in each role - Describe what you hope to achieve with your MBA\nIn projects.qmd (Projects page): - Introductory sentence about what these projects mean to you - Personal learnings from El Paisano project - Reflections on Netflix AI report and using Quarto - How the Leadership project changed your thinking\nIn skills.qmd (Skills page): - How you’ve built these skills - Any additional software/tools you’ve learned - Which leadership skills you’re developing during MBA - How your bilingual abilities have helped your career - Future certifications you plan to pursue\nIn contact.qmd (Contact page): - What kind of conversations you’re hoping to have - Volunteer work or community involvement - Student clubs or MBA associations - Any leadership or cultural organizations\n\n\n\n\nOpen each .qmd file in a text editor\nUse Ctrl+F (Windows) or Cmd+F (Mac) to search for [TODO\nReplace EVERY instance with your own authentic writing"
+  },
+  {
+    "objectID": "NEXT-STEPS.html#step-3-preview-your-website",
+    "href": "NEXT-STEPS.html#step-3-preview-your-website",
+    "title": "📋 Next Steps for Your MBA Portfolio",
+    "section": "",
+    "text": "Open terminal/command prompt in the WRCD-239 folder\nRun preview command:\nquarto preview\nYour website will open in a browser at http://localhost:XXXX\nMake edits to the .qmd files and save - the preview will auto-refresh\nPress Ctrl+C in the terminal when done previewing"
+  },
+  {
+    "objectID": "NEXT-STEPS.html#step-4-render-the-final-website",
+    "href": "NEXT-STEPS.html#step-4-render-the-final-website",
+    "title": "📋 Next Steps for Your MBA Portfolio",
+    "section": "",
+    "text": "When you’re happy with your content:\nquarto render\nThis creates the final website in the docs/ folder."
+  },
+  {
+    "objectID": "NEXT-STEPS.html#step-5-final-pre-submission-checks",
+    "href": "NEXT-STEPS.html#step-5-final-pre-submission-checks",
+    "title": "📋 Next Steps for Your MBA Portfolio",
+    "section": "",
+    "text": "All [TODO] placeholders replaced with my own writing\nProfile photo exists in assets/profile-photo.jpg\nResume PDF exists in assets/Katherine_Samaniego_Resume.pdf\nAll links (LinkedIn, email, resume) work correctly\nNavigation bar works (can click between all pages)\nContent sounds like MY voice, not AI\nNo invented information (all jobs, dates, skills are accurate)\nAPA citations added if I referenced external sources\nWebsite renders without errors"
+  },
+  {
+    "objectID": "NEXT-STEPS.html#step-6-publish-optional",
+    "href": "NEXT-STEPS.html#step-6-publish-optional",
+    "title": "📋 Next Steps for Your MBA Portfolio",
+    "section": "",
+    "text": "If you want to put your portfolio online:\n\n\n\nCreate a GitHub account if you don’t have one\nCreate a new repository\nUpload all files to the repository\nGo to Settings → Pages → Select docs/ folder\nYour site will be live at https://yourusername.github.io/repo-name\n\n\n\n\nquarto publish quarto-pub\nFollow the prompts to create an account and publish.\n\n\n\n\nGo to https://app.netlify.com/drop\nDrag and drop your entire docs/ folder\nGet an instant live URL"
+  },
+  {
+    "objectID": "NEXT-STEPS.html#need-help",
+    "href": "NEXT-STEPS.html#need-help",
+    "title": "📋 Next Steps for Your MBA Portfolio",
+    "section": "",
+    "text": "Quarto won’t render? Check for YAML errors (indentation matters!)\nImages not showing? Verify file paths and that files exist in assets/\nLinks broken? Make sure all linked files are in the correct locations\n\nResources: - Quarto Docs: https://quarto.org/docs/websites/ - Quarto Gallery: https://quarto.org/docs/gallery/ - README.md has full troubleshooting guide"
+  },
+  {
+    "objectID": "NEXT-STEPS.html#remember",
+    "href": "NEXT-STEPS.html#remember",
+    "title": "📋 Next Steps for Your MBA Portfolio",
+    "section": "",
+    "text": "Your instructor is evaluating: 1. ✅ Organization & clarity (structure is done!) 2. ✅ Content completeness (replace all TODOs!) 3. ✅ Your authentic voice (write in YOUR words!) 4. ✅ Visual elements (add photos, resume PDF, links) 5. ✅ Professional presentation (Quarto does this!)\nThe technical structure is complete. Now make it YOURS! 🚀\n\nQuestions? Check the main README.md file for detailed documentation."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Katherine Samaniego",
+    "section": "",
+    "text": "Vancouver, BC | kasv2793@gmail.com | LinkedIn"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Katherine Samaniego",
+    "section": "About Me",
+    "text": "About Me\n\n\n\n\nKatherine Samaniego\n\n\n\nI am a bilingual administrative professional with over 5 years of experience spanning hospitality, education, and customer service sectors. My career has taken me from supporting onboard operations at Princess Cruises to coordinating resources for public schools in Peru, and now serving seniors with care at Venvi Retirement Living in Vancouver.\nCurrently, I am pursuing my MBA at University Canada West, where I am developing strategic leadership capabilities and exploring digital transformation, artificial intelligence, and data-driven decision-making in business.\nAs a bilingual professional with international experience across hospitality, education, and senior care, I bring a unique perspective that combines operational excellence with genuine care for people and communities."
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Katherine Samaniego",
+    "section": "Current Focus",
+    "text": "Current Focus\n\n\n\n\n\n\nNote🎓 MBA in Progress\n\n\n\nI am currently enrolled in the Master of Business Administration program at University Canada West (Sep 2024 – Present), with a focus on Leadership, Digital Transformation, and Artificial Intelligence in Business.\n\n\n\n🎯 Career Goals\nMy current career focus is securing a management-track role within the hospitality and senior-living sector, where I can develop leadership capabilities, gain supervisory experience, and build a long-term pathway for career advancement.\nI am particularly passionate about combining operational excellence with compassionate service delivery, leveraging my MBA training in digital transformation and AI to enhance both resident experience and organizational efficiency.\n\nRecent Projects:\n\nAnalyzing AI-driven strategies at Netflix for a business intelligence report\nProposing e-commerce solutions for a local Latin food business (El Paisano)\nExploring emotional intelligence and power dynamics in leadership\nDeveloping service improvement case studies for retirement living operations"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Katherine Samaniego",
+    "section": "Quick Links",
+    "text": "Quick Links\n\n📄 Download My Resume (PDF)\n💼 Connect on LinkedIn\n📧 Email Me\n\n\n\nThis portfolio was built using Quarto, an open-source scientific and technical publishing system."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact & Connect",
+    "section": "",
+    "text": "I’m always open to connecting with fellow professionals, MBA peers, recruiters, and potential collaborators. I’m particularly interested in opportunities within hospitality management, senior-living operations, and roles that combine service excellence with strategic leadership.\nWhether you’d like to discuss a project, explore opportunities, or simply network, feel free to reach out!\n\n\n\n\n📧 Email: kasv2793@gmail.com\n📱 Phone: +1 236-513-5429\n📍 Location: Vancouver, BC, Canada\n💼 LinkedIn: linkedin.com/in/katherine-samaniego-ventura-4750401a5\n\n\n\n\n\n\n📄 Download My Resume (PDF)\n💼 View My LinkedIn Profile\n📧 Send Me an Email\n\n\n\n\n\n\n\n\nNoteLet’s Connect!\n\n\n\nI’m particularly interested in opportunities related to hospitality management, operations strategy, digital transformation, and client service excellence. If you’re working on something exciting in these areas, I’d love to hear from you.\n\n\n\n\nThis portfolio was built using Quarto. Last updated: January 2025."
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact & Connect",
+    "section": "",
+    "text": "I’m always open to connecting with fellow professionals, MBA peers, recruiters, and potential collaborators. I’m particularly interested in opportunities within hospitality management, senior-living operations, and roles that combine service excellence with strategic leadership.\nWhether you’d like to discuss a project, explore opportunities, or simply network, feel free to reach out!\n\n\n\n\n📧 Email: kasv2793@gmail.com\n📱 Phone: +1 236-513-5429\n📍 Location: Vancouver, BC, Canada\n💼 LinkedIn: linkedin.com/in/katherine-samaniego-ventura-4750401a5\n\n\n\n\n\n\n📄 Download My Resume (PDF)\n💼 View My LinkedIn Profile\n📧 Send Me an Email\n\n\n\n\n\n\n\n\nNoteLet’s Connect!\n\n\n\nI’m particularly interested in opportunities related to hospitality management, operations strategy, digital transformation, and client service excellence. If you’re working on something exciting in these areas, I’d love to hear from you.\n\n\n\n\nThis portfolio was built using Quarto. Last updated: January 2025."
+  },
+  {
+    "objectID": "experience.html#title-experience-education",
+    "href": "experience.html#title-experience-education",
+    "title": "Experience & Education",
+    "section": "title: “Experience & Education”",
+    "text": "title: “Experience & Education”"
+  },
+  {
+    "objectID": "experience.html#professional-summary",
+    "href": "experience.html#professional-summary",
+    "title": "Experience & Education",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nDynamic and bilingual Administrative Professional with over 5 years of experience across hospitality, education, and customer service sectors. Recognized for exceptional organizational skills, efficient coordination of high-volume operations, and a warm, solutions-oriented approach to client interactions. Currently pursuing an MBA to transition into management-track roles within hospitality and senior-living sectors, combining operational excellence with strategic leadership."
+  },
+  {
+    "objectID": "experience.html#professional-experience",
+    "href": "experience.html#professional-experience",
+    "title": "Experience & Education",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nDietary Aide\nVenvi Retirement Living (formerly Revera Hollyburn House) – Vancouver, BC Oct 2024 – Present | Feb 2022 – Oct 2023\n\nRejoined the team upon employer’s request prior to returning to Canada, reflecting trust and performance\nServe meals to residents and guests with professionalism and care\nSupport special events and daily operations in a team-oriented environment\nFollow health and safety standards, ensuring high-quality service for senior residents\n\n\n\n\nReceptionist\nSt. Clair Hotel-Hostel – Vancouver, BC Sep 2022 – Oct 2023\n\nWelcomed guests and managed reservations, check-ins, and payments\nHandled inquiries via phone and email, maintaining a professional tone\nOrganized front desk operations and performed light administrative duties\n\n\n\n\nSales Representative\nB&G Autosales – Remote from Lima, Peru May 2024 – Sep 2024\n\nContacted prospects across Arizona, USA to explain vehicle financing options\nScheduled appointments across multiple offices, optimizing agent routes\nBuilt strong rapport with clients, boosting conversion through clear, confident communication\n\n\n\n\nAdministrative Coordinator\nUGEL 07 (Education Management Unit) – Lima, Peru Oct 2020 – Dec 2021\n\nOversaw resource allocation, facility maintenance, and supply logistics for public schools\nSupported teachers with timely delivery of materials and services\nMaintained inventory records and supervised support staff\n\n\n\n\nServer / Assistant F&B Manager\nPrincess Cruises – International Feb 2017 – Mar 2020\n\nSupported onboard food & beverage operations and room service logistics\nHandled guest complaints and special requests with professionalism\nCoordinated with multiple departments for smooth daily execution\n\n\n\n\nAdministrative Assistant\nI.E.P. Clemente Althaus – Lima, Peru Oct 2016 – Feb 2017\n\nManaged payroll, HR records, and finance tracking in Excel\nCollaborated on institutional improvement projects and monthly reporting"
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Experience & Education",
+    "section": "Education",
+    "text": "Education\n\nMaster of Business Administration (MBA)\nUniversity Canada West – Vancouver, BC, Canada Sep 2024 – Present\n\nFocus Areas: Leadership, Digital Transformation, and Artificial Intelligence in Business\nKey Coursework/Projects: Power and Influence in Leadership, Netflix AI Business Report, Service Improvement Case Studies\n\n\n\n\nDiploma in Hospitality Management\nGreystone College – Vancouver, BC, Canada Dec 2021 – Oct 2023\n\n\n\nBachelor’s in Management Engineering\nInca Garcilaso de la Vega University – Lima, Peru Aug 2010 – Feb 2016\n\n\n\n\n\n\n\nTip📄 Download Full Resume\n\n\n\nClick here to download my complete resume (PDF)"
+  },
+  {
+    "objectID": "netflix-project.html",
+    "href": "netflix-project.html",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "",
+    "text": "Course: BUSI 654 – Application of AI in Business Type: Individual Business Report Year: 2025"
+  },
+  {
+    "objectID": "netflix-project.html#project-overview",
+    "href": "netflix-project.html#project-overview",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "Project Overview",
+    "text": "Project Overview\nThis project explores how large language models (LLMs) can be leveraged for business strategy development. I analyzed Netflix’s advertising landscape and developed a comprehensive marketing campaign for their ad-supported subscription tier.\nWhat started as a straightforward business analysis became an interesting exploration of how AI tools can enhance—but not replace—strategic thinking. I used LLMs primarily as brainstorming partners and research assistants, but the strategic decisions, creative direction, and final analysis remained distinctly human-driven.\nKey Challenge: How can we balance AI assistance with authentic strategic thinking to create actionable business recommendations?"
+  },
+  {
+    "objectID": "netflix-project.html#why-netflix-and-why-now",
+    "href": "netflix-project.html#why-netflix-and-why-now",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "Why Netflix and Why Now?",
+    "text": "Why Netflix and Why Now?\nI chose Netflix’s ad-supported tier for three specific reasons that made this project personally interesting:\n1. Market Timing: Netflix launched their ad-supported plan in late 2022, which means we’re still in the early adoption phase. This timing creates a unique opportunity to analyze real-time strategy adjustments rather than just retrospective case studies.\n2. Industry Disruption: Netflix spent years positioning itself as “ad-free premium entertainment,” then reversed course. This strategic pivot fascinates me because it shows how even industry leaders must adapt to market pressures (subscriber losses, competition, revenue needs).\n3. Personal Context: As an MBA student in hospitality management, I’m drawn to businesses that balance service excellence with financial sustainability. Netflix’s challenge mirrors what I see in senior living operations—how do you maintain quality experience while managing different pricing tiers?\n\nWhat Makes This Different from Typical Case Studies?\nMost Netflix case studies focus on content strategy or subscriber metrics. I deliberately chose to focus on the advertising psychology and campaign design because: - There’s less existing analysis (more room for original thinking) - It connects to my interest in customer behavior across demographics - The ad-supported tier requires understanding both advertisers AND viewers—a dual-customer challenge I find compelling"
+  },
+  {
+    "objectID": "netflix-project.html#research-methodology-working-with-llms",
+    "href": "netflix-project.html#research-methodology-working-with-llms",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "Research Methodology: Working with LLMs",
+    "text": "Research Methodology: Working with LLMs\n\nMy Approach to AI-Assisted Research\nI used ChatGPT (GPT-4) and Claude as research assistants, but I quickly learned that effective LLM use requires strategic prompting rather than passive questioning.\nWhat worked well: - Using LLMs to generate competitor comparison frameworks - Asking for demographic research on 18–38 age groups’ media habits - Brainstorming unconventional campaign messaging angles\nWhat didn’t work: - Generic prompts like “analyze Netflix advertising” produced surface-level responses - LLMs sometimes invented statistics that seemed plausible but weren’t real - Creative campaign ideas from LLMs often felt safe and uninspired\nThis led me to develop a two-stage verification process:\n\nFirst Pass: Use LLM to generate ideas and structure\nSecond Pass: Verify every claim against actual sources (annual reports, Statista, Nielsen data, marketing journals)\n\nThe result? About 30% of LLM-generated content made it to the final report—the rest was either too generic, unverifiable, or lacked strategic nuance."
+  },
+  {
+    "objectID": "netflix-project.html#question-development-strategic-framework",
+    "href": "netflix-project.html#question-development-strategic-framework",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "Question Development & Strategic Framework",
+    "text": "Question Development & Strategic Framework\n\nThe Core Questions I Asked\nRather than asking surface-level questions like “What is Netflix’s target audience?” I developed three strategic questions that required synthesis and analysis:\n\nQuestion 1: How has Netflix’s brand identity shifted with the introduction of ads, and what does this mean for long-term subscriber perception?\nWhy this question matters: Netflix built its reputation on ad-free viewing. Introducing ads isn’t just a revenue tactic—it’s a fundamental brand repositioning. I wanted to understand the psychological trade-offs.\nAlternatives considered: - “What are Netflix’s main competitors?” (Too descriptive, no analysis) - “How successful is the ad-supported tier?” (Too early for conclusive data)\nWhat I discovered: The shift reveals a tension between premium positioning and accessibility. Netflix is essentially creating a two-tier class system among subscribers. This echoes what I’ve observed in hospitality—when you create tiers, you must carefully manage how each segment perceives value.\n\n\nQuestion 2: What messaging strategy can make ads feel less like an interruption and more like an acceptable trade-off for cost savings?\nWhy this question matters: Most analysis focuses on whether to introduce ads. I wanted to explore how to message them. This is a human psychology question, not just a business question.\nCreative angles explored: - Positioning ads as “supporting creators” (didn’t feel authentic for Netflix) - Emphasizing cost savings (too transactional, lacks emotional resonance) - Final choice: “Watch more, pay less” campaign (balances practicality with lifestyle benefit)\n\n\nQuestion 3: Which advertising channels best reach price-sensitive younger viewers who still value premium content?\nWhy this question matters: The target audience (18–38, budget-conscious but quality-seeking) exists across multiple platforms. Rather than defaulting to “social media advertising,” I wanted to explore channel-specific strategies.\nUnconventional insight: TikTok isn’t just a channel for ads—it’s a content discovery platform. I proposed partnering with creators who make “what I watched this month” content, which feels native rather than promotional."
+  },
+  {
+    "objectID": "netflix-project.html#campaign-development-watch-more-pay-less",
+    "href": "netflix-project.html#campaign-development-watch-more-pay-less",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "Campaign Development: “Watch More, Pay Less”",
+    "text": "Campaign Development: “Watch More, Pay Less”\n\nThe Strategic Rationale\nMost streaming service ads emphasize content breadth (“thousands of shows!”). I noticed this approach commodifies Netflix—it makes them sound interchangeable with other services.\nInstead, I developed “Watch More, Pay Less” to emphasize a lifestyle benefit: - “Watch More” implies guilt-free binge-watching and time for yourself - “Pay Less” positions ads as an empowering choice, not a compromise\n\n\nWhy This Resonated with Me\nHaving worked in hospitality and senior living, I’ve seen how small language shifts change customer perception. In retirement homes, we don’t say “assisted living”—we say “supportive living” because it maintains dignity and autonomy.\nSimilarly, “Watch More, Pay Less” doesn’t say “cheap tier with ads”—it says “smart choice for savvy viewers.”\n\n\nMedia Mix Strategy\nI designed a channel strategy based on where the target audience actually spends time:\nDigital Channels (70% of budget): - YouTube pre-roll (reaches viewers already in “watching” mode) - Meta/Instagram Stories (visual, quick, scrollable format) - TikTok creator partnerships (native, authentic recommendations)\nTraditional Media (30% of budget): - Spotify/podcast ads (captures commuters and multitaskers) - Selected transit ads in urban areas (targets young professionals)\nWhy not TV ads? The target audience is cord-cutters. TV advertising would contradict the insight that they’ve already left traditional TV behind."
+  },
+  {
+    "objectID": "netflix-project.html#llm-responses-what-ai-generated-vs.-what-i-used",
+    "href": "netflix-project.html#llm-responses-what-ai-generated-vs.-what-i-used",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "LLM Responses: What AI Generated vs. What I Used",
+    "text": "LLM Responses: What AI Generated vs. What I Used\n\nSection Purpose\nThis section shows how I used LLM outputs as raw material rather than final content. Understanding what AI generates versus what requires human judgment is critical for ethical AI use in business.\n\n\nExample 1: Target Audience Analysis\nLLM Initial Response: &gt; “Netflix’s ad-supported tier targets budget-conscious consumers aged 18-35 who want access to premium content at a lower price point. These users are typically young professionals, students, and families.”\nWhy this wasn’t sufficient: - Too generic (could describe any streaming service) - Missed psychographic details (values, behaviors, motivations) - Lacked competitive context\nMy Refined Analysis: The primary audience is price-sensitive but quality-conscious viewers aged 18–38 who: - Grew up with streaming (no nostalgia for cable TV) - Subscribe to multiple services but experience “subscription fatigue” - Value content curation over content volume - Are active on social media and trust peer recommendations over traditional ads\nThis group isn’t “cheap”—they’re strategic about spending. They’ll pay for quality (hence choosing Netflix over free options) but seek value optimization (hence choosing ad-supported over premium).\n\n\nExample 2: Campaign Messaging\nLLM Initial Response: &gt; “Emphasize the vast library of content available at a fraction of the cost. Highlight popular shows and movies to demonstrate value.”\nWhy this felt generic: - Focus on content catalog (what every streaming service says) - Transactional framing (lacks emotional connection) - Doesn’t address the “ads” part (avoids the main friction point)\nMy Creative Direction: Instead of avoiding ads, acknowledge them directly with humor and honesty:\nSample ad copy: “Yeah, there are ads. But your wallet will thank you. Watch more guilt-free Netflix. Pay less guilt-inducing bills.”\nThis approach: - Disarms the negative (honesty builds trust) - Uses humor (makes ads feel less serious) - Balances practical benefit (lower cost) with emotional benefit (guilt-free enjoyment)\n\n\nWhat This Comparison Reveals\nLLMs excel at structure and breadth but struggle with nuance and originality. They generate “safe” responses that sound professional but lack distinctive voice or strategic risk-taking.\nThe transition from LLM output to final strategy required: 1. Specificity: Adding demographic and psychographic details 2. Context: Connecting to broader industry trends and competitive dynamics 3. Creativity: Introducing unexpected angles (humor, honesty, lifestyle framing) 4. Voice: Writing in a tone that reflects how real people think, not how AI thinks business documents should sound"
+  },
+  {
+    "objectID": "netflix-project.html#human-evaluation-assessing-quality-beyond-ai-metrics",
+    "href": "netflix-project.html#human-evaluation-assessing-quality-beyond-ai-metrics",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "Human Evaluation: Assessing Quality Beyond AI Metrics",
+    "text": "Human Evaluation: Assessing Quality Beyond AI Metrics\n\nWhy Human Evaluation Mattered\nAfter generating and refining LLM content, I needed to evaluate whether my final strategy actually worked. AI can generate text, but it can’t assess strategic soundness or market fit.\nI developed a three-layer evaluation framework:\n\nLayer 1: Logical Coherence\nQuestion: Does the strategy internally make sense?\nEvaluation Method: I created a logic map connecting: - Target audience traits → Campaign messaging → Channel selection → Expected outcomes\nFindings: Initial messaging focused too heavily on cost savings without addressing the psychological barrier of ads. This created a logical gap: if people were purely cost-driven, they’d choose free streaming services instead.\nAdjustment: Shifted messaging to emphasize lifestyle trade-off (“Watch more guilt-free content”) rather than pure cost savings.\n\n\nLayer 2: Market Realism\nQuestion: Would this actually work in Netflix’s competitive environment?\nEvaluation Method: Compared my strategy against real campaigns by Disney+, Hulu, and Peacock (all offer ad-supported tiers).\nSurprising Finding: Most competitors focus on content exclusivity (“Only on Disney+”). Netflix’s strength isn’t exclusive content anymore—it’s curation and recommendation.\nStrategic Implication: My campaign should emphasize Netflix’s ability to “know what you’ll love” rather than competing on content breadth. The ads don’t interrupt this value—they subsidize it.\n\n\nLayer 3: Personal Stress-Testing\nQuestion: Would I believe this campaign if I saw it?\nEvaluation Method: I role-played as three different viewer personas: 1. Budget-conscious student (me 5 years ago) 2. Young professional (me now, juggling MBA + work) 3. Parent (not me, but representing family subscribers)\nResult: As a budget-conscious student, the campaign would resonate because it validates a smart financial choice. As a young professional, I’d appreciate honesty about ads rather than corporate spin. As a parent, I’d want reassurance that ad content is family-appropriate (a gap I added to implementation notes).\n\n\n\nWhat I Learned About Human Judgment\nThis evaluation process taught me that strategy isn’t just about being correct—it’s about being believable. LLMs generate “correct” content, but humans assess credibility, emotional resonance, and practical feasibility.\nKey Realization: The best campaigns don’t just present information—they anticipate objections and address them preemptively. The “Yeah, there are ads” messaging came from this human evaluation phase, not from LLM brainstorming."
+  },
+  {
+    "objectID": "netflix-project.html#metrics-success-indicators",
+    "href": "netflix-project.html#metrics-success-indicators",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "Metrics & Success Indicators",
+    "text": "Metrics & Success Indicators\n\nHow I’d Measure Campaign Effectiveness\nMost business reports list generic metrics (awareness, engagement, conversion). I developed metrics tied to specific strategic goals:\n\nPrimary Metrics (What success looks like in 6 months):\n1. Ad-Tier Subscriber Growth Rate - Target: 15% quarter-over-quarter growth - Why this matters: Proves the messaging resonates with target audience\n2. Conversion from Free Trial to Paid Ad-Tier - Target: 60% conversion rate - Why this matters: Shows the experience matches expectations (ads aren’t worse than anticipated)\n3. Churn Rate Comparison (Ad-Tier vs. Premium) - Target: No more than 5% difference - Why this matters: If ad-tier churn is significantly higher, the trade-off isn’t balanced\n\n\nSecondary Metrics (What predicts long-term success):\n4. Ad Engagement Rate - Target: 70% of ads watched to completion - Why this matters: If viewers constantly skip ads, the product isn’t sustainable for advertisers\n5. Cross-Grade Rate (Ad-Tier to Premium) - Target: 10% annual upgrade rate - Why this matters: Creates upsell pipeline and validates the “ladder” strategy\n6. Social Sentiment Analysis - Target: Positive sentiment (≥60%) on campaign-related social posts - Why this matters: Young audiences trust peer opinions over corporate metrics\n\n\n\nUnconventional Metric I Proposed\n“Time to First Ad Complaint” - Measure how long into free trial before users comment about ads - Hypothesis: If complaints come in first week, onboarding messaging is insufficient. If they come after 3+ weeks, messaging was effective.\nThis metric isn’t standard, but it captures something important: expectation management. The goal isn’t zero complaints—it’s informed complaints (users knew what they signed up for)."
+  },
+  {
+    "objectID": "netflix-project.html#what-id-do-differently-honest-reflection",
+    "href": "netflix-project.html#what-id-do-differently-honest-reflection",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "What I’d Do Differently: Honest Reflection",
+    "text": "What I’d Do Differently: Honest Reflection\n\nLimitations I Encountered\n1. Over-Reliance on LLM Structure in Early Drafts My first outline came directly from ChatGPT. It was logical but generic. I spent significant time unlearning the AI’s organizational framework to create something more distinctive.\nLesson: Start with human brainstorming, then use AI to fill gaps—not the reverse.\n2. Difficulty Verifying Demographic Claims LLMs confidently cite statistics that don’t exist. I spent hours trying to verify a claim about “Gen Z streaming habits” before realizing it was AI-generated fiction.\nLesson: Treat all LLM claims as hypotheses requiring verification.\n3. Creative Ideas Felt “Safe” When I asked LLMs for campaign ideas, responses were professionally adequate but uninspired. The “Watch More, Pay Less” tagline came from my own brainstorming after midnight when I stopped trying to sound “business-like.”\nLesson: AI outputs often reflect the average of its training data—which means they avoid creative risk.\n\n\nWhat I’m Curious About for Future Work\n1. Long-term brand impact: How will introducing ads affect Netflix’s premium tier positioning 5 years from now? Does creating a two-tier system erode the “prestige” factor?\n2. Ad content curation: Could Netflix differentiate by making ads actually relevant and non-intrusive? (Spotify does this well—Netflix could too)\n3. International rollout: My analysis focused on North America. How would this campaign adapt for markets with different attitudes toward ads?"
+  },
+  {
+    "objectID": "netflix-project.html#final-thoughts-ai-as-a-tool-not-a-substitute",
+    "href": "netflix-project.html#final-thoughts-ai-as-a-tool-not-a-substitute",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "Final Thoughts: AI as a Tool, Not a Substitute",
+    "text": "Final Thoughts: AI as a Tool, Not a Substitute\nThis project reinforced something I’ve observed in my hospitality work: technology enhances human service but can’t replace human judgment.\nLLMs are powerful brainstorming partners. They accelerate research, suggest frameworks, and generate options I wouldn’t have considered. But the strategic decisions—what to emphasize, how to message, what risks to take—required human intuition, market sense, and personal judgment.\nThe most valuable part of this project wasn’t the final strategy document. It was learning to interrogate AI outputs critically: - When is this generic? - Where’s the distinctive insight? - Would I believe this if someone else wrote it?\nAs I move toward management roles in hospitality and senior living, I expect AI tools to become more prevalent. This project gave me a framework for using them effectively: leverage AI for breadth, then add human depth.\n\n\n\n\n\n\n\nNote📄 Project Deliverables\n\n\n\nFull Report: Download PDF (Business strategy document with campaign details, budget breakdown, and implementation timeline)\nPresentation Slides: View Slides (Executive summary and visual campaign mockups)\nQuarto Source Files: Available upon request for those interested in the technical documentation process"
+  },
+  {
+    "objectID": "netflix-project.html#personal-takeaway",
+    "href": "netflix-project.html#personal-takeaway",
+    "title": "Netflix Advertising Strategy Analysis",
+    "section": "Personal Takeaway",
+    "text": "Personal Takeaway\nThis wasn’t just a business project—it was a lesson in critical thinking in the age of AI. The most marketable skill isn’t knowing how to use ChatGPT. It’s knowing when its outputs are sufficient, when they need refinement, and when they should be discarded entirely.\nThat’s the kind of judgment that will matter in management roles—and it’s something AI can’t replicate."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Below are selected projects and case studies completed during my MBA at University Canada West and based on my professional experience. These projects demonstrate my ability to apply business strategy, operations analysis, and technical tools to real-world challenges.\n\n\n\n2025 | BUSI 654 – Application of AI in Business | Individual Business Report\nOverview: Created a comprehensive business report analyzing Netflix’s advertising and market strategy, using large language models (LLMs) and Quarto to structure and present the work. This project explores the intersection of AI-assisted research and strategic business analysis, examining how LLMs can enhance (but not replace) human judgment in developing marketing campaigns.\nKey Focus Areas:\n\nStrategic analysis of Netflix’s ad-supported tier in competitive streaming landscape\nDevelopment of “Watch More, Pay Less” campaign targeting price-sensitive but quality-conscious viewers aged 18–38\nCritical evaluation of LLM outputs versus human-refined strategic content\nHuman evaluation framework for assessing campaign quality beyond AI-generated metrics\nUnconventional metrics for measuring campaign success and expectation management\n\nSkills Applied: Business research, competitive analysis, marketing strategy, AI-assisted content development, critical thinking, human evaluation frameworks, technical documentation with Quarto\n→ View Full Project Details | Download Report PDF\n\n\n\n\nCase study based on experience as Dietary Aide at Venvi Retirement Living (formerly Revera Hollyburn House)\nOverview: This case study reflects on how dining room service can influence residents’ daily quality of life in a retirement living setting.\nWhat I focused on:\n\nMapped the resident dining experience from arrival and seating to meals and feedback\nIdentified practical pain points such as wait times, communication about dietary restrictions, and coordination during busy periods\nSuggested small process changes, like clearer task roles, better pre-service briefings, and quick feedback notes after meals\nReflected on how consistent, respectful communication and small service improvements can increase resident satisfaction and support staff teamwork\n\nSkills Applied: Operations analysis, process mapping, customer service excellence, quality improvement\n\n\n\n\nCase study inspired by work as Administrative Coordinator at UGEL 07 in Lima, Peru\nOverview: In this case study, I examine how effective operations and resource coordination support public schools and teachers.\nWhat I highlight:\n\nOversaw resource allocation, facility maintenance, and supply logistics for multiple public schools\nSupported teachers by helping ensure materials and services arrived on time\nMaintained inventory records and supervised support staff to keep daily operations running smoothly\nReflected on the importance of organization, clear priorities, and communication when working with limited budgets and many stakeholders\n\nSkills Applied: Resource allocation, logistics coordination, stakeholder management, public sector operations\n\n\n\n\n\n\n\nNote📂 Project Files & Presentations\n\n\n\nIf you’d like to see full reports, slides, or code repositories for any of these projects, please contact me."
+  },
+  {
+    "objectID": "projects.html#featured-projects-case-studies",
+    "href": "projects.html#featured-projects-case-studies",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Below are selected projects and case studies completed during my MBA at University Canada West and based on my professional experience. These projects demonstrate my ability to apply business strategy, operations analysis, and technical tools to real-world challenges.\n\n\n\n2025 | BUSI 654 – Application of AI in Business | Individual Business Report\nOverview: Created a comprehensive business report analyzing Netflix’s advertising and market strategy, using large language models (LLMs) and Quarto to structure and present the work. This project explores the intersection of AI-assisted research and strategic business analysis, examining how LLMs can enhance (but not replace) human judgment in developing marketing campaigns.\nKey Focus Areas:\n\nStrategic analysis of Netflix’s ad-supported tier in competitive streaming landscape\nDevelopment of “Watch More, Pay Less” campaign targeting price-sensitive but quality-conscious viewers aged 18–38\nCritical evaluation of LLM outputs versus human-refined strategic content\nHuman evaluation framework for assessing campaign quality beyond AI-generated metrics\nUnconventional metrics for measuring campaign success and expectation management\n\nSkills Applied: Business research, competitive analysis, marketing strategy, AI-assisted content development, critical thinking, human evaluation frameworks, technical documentation with Quarto\n→ View Full Project Details | Download Report PDF\n\n\n\n\nCase study based on experience as Dietary Aide at Venvi Retirement Living (formerly Revera Hollyburn House)\nOverview: This case study reflects on how dining room service can influence residents’ daily quality of life in a retirement living setting.\nWhat I focused on:\n\nMapped the resident dining experience from arrival and seating to meals and feedback\nIdentified practical pain points such as wait times, communication about dietary restrictions, and coordination during busy periods\nSuggested small process changes, like clearer task roles, better pre-service briefings, and quick feedback notes after meals\nReflected on how consistent, respectful communication and small service improvements can increase resident satisfaction and support staff teamwork\n\nSkills Applied: Operations analysis, process mapping, customer service excellence, quality improvement\n\n\n\n\nCase study inspired by work as Administrative Coordinator at UGEL 07 in Lima, Peru\nOverview: In this case study, I examine how effective operations and resource coordination support public schools and teachers.\nWhat I highlight:\n\nOversaw resource allocation, facility maintenance, and supply logistics for multiple public schools\nSupported teachers by helping ensure materials and services arrived on time\nMaintained inventory records and supervised support staff to keep daily operations running smoothly\nReflected on the importance of organization, clear priorities, and communication when working with limited budgets and many stakeholders\n\nSkills Applied: Resource allocation, logistics coordination, stakeholder management, public sector operations\n\n\n\n\n\n\n\nNote📂 Project Files & Presentations\n\n\n\nIf you’d like to see full reports, slides, or code repositories for any of these projects, please contact me."
+  }
+]

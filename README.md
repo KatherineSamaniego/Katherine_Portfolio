@@ -29,21 +29,6 @@ WRCD-239/
    ```bash
    quarto --version
    ```
-
-### Setup Steps
-
-1. **Add Your Assets**
-   - Create an `assets/` folder in the project root
-   - Add your professional photo as `assets/profile-photo.jpg`
-   - Add your resume PDF as `assets/Katherine_Samaniego_Resume.pdf`
-   - Add any project images or additional files
-
-2. **Customize the Content**
-   - **IMPORTANT**: Search for all `[TODO – ...]` placeholders in the `.qmd` files
-   - Replace each TODO with your own writing in your personal voice
-   - Update dates, links, and any other information as needed
-   - Do NOT submit AI-generated text as your own work!
-
 3. **Render the Website**
    ```bash
    quarto render
@@ -54,9 +39,7 @@ WRCD-239/
    ```bash
    quarto preview
    ```
-   Your site will open at `http://localhost:XXXX`
-   - The preview auto-refreshes when you save changes
-   - Press `Ctrl+C` in the terminal to stop the preview
+  
 
 ## 📚 Resources
 
